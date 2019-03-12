@@ -1,16 +1,15 @@
-[
+{
+  "items":[
   {
         "category": "Equipments",
         "name": "Camera",
         "prototype": "items",
   },
-
-
-  
   {
        "category": "Equipments",
         "name": "WiFi hotspot",
         "prototype": "items",
-    },
+   },
 
 ]
+}
