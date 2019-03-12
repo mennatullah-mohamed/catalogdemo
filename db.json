@@ -1,4 +1,5 @@
-[
+{
+"items": [
   {
         "category": "Equipments",
         "name": "Camera",
@@ -24,6 +25,7 @@
             }
         },
   },
+  
   {
        "category": "Equipments",
         "name": "WiFi hotspot",
@@ -46,3 +48,4 @@
         },
     }
 ]
+}
