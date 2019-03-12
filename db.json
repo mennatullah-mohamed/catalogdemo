@@ -11,6 +11,8 @@
         },
         'properties': {
  
+          
+          
           'altitude': {
                 'label': 'altitude',
                 'type': 'length-measure',
