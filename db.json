@@ -1,5 +1,4 @@
-{
-"items": [
+[
   {
         "category": "Equipments",
         "name": "Camera",
@@ -21,6 +20,8 @@
             },
         },
   },
+
+
   
   {
        "category": "Equipments",
@@ -43,5 +44,5 @@
             },
         },
     },
+
 ]
-}
