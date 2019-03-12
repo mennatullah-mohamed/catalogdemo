@@ -10,9 +10,11 @@
             image: 'url'
         },
         'properties': {
-            'altitude': {
+ 
+          'altitude': {
                 'label': 'altitude',
                 'type': 'length-measure',
+ 
                 'defaultValue': {
                     'length': 0,
                     'unit': 'cm'
