@@ -14,8 +14,8 @@
                 'label': 'altitude',
                 'type': 'length-measure',
                 'defaultValue': {
-                    length: 0,
-                    unit: 'cm'
+                    'length': 0,
+                    'unit': 'cm'
                 }
             },
             'angle': {
