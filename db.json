@@ -17,12 +17,8 @@
                 "defaultValue": {
                     "length": 0,
                     "unit": "cm"
-                }
+                },
             },
-            "angle": {
-                "value": 90,
-                "length": 100
-            }
         },
   },
   
@@ -43,9 +39,9 @@
                 "defaultValue": {
                     "length": 0,
                     "unit": "cm"
-                }
-            }
+                },
+            },
         },
-    }
+    },
 ]
 }
