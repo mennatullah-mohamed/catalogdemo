@@ -25,22 +25,22 @@
         },
   },
   {
-       'category': 'Equipments',
-        'name': 'WiFi hotspot',
-        'prototype': 'items',
-        'info': {
-            'tag': ['furnishings', 'wood'],
-            'title': 'canteen table',
-            'description': 'canteen table',
-            'image': 'url'
+       "category": "Equipments",
+        "name": "WiFi hotspot",
+        "prototype": "items",
+        "info": {
+            "tag": ["furnishings", "wood"],
+            "title": "canteen table",
+            "description": "canteen table",
+            "image": "url"
         },
-        'properties': {
-            'altitude': {
-                'label': 'altitude',
-                'type': 'length-measure',
-                'defaultValue': {
-                    'length': 0,
-                    'unit': 'cm'
+        "properties": {
+            "altitude": {
+                "label": "altitude",
+                "type": "length-measure",
+                "defaultValue": {
+                    "length": 0,
+                    "unit": "cm"
                 }
             }
         },
