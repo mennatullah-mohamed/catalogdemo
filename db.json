@@ -9,24 +9,6 @@
             description: 'canteen table',
             image: 'url'
         },
-        'properties': {
- 
-          
-          
-          'altitude': {
-                'label': 'altitude',
-                'type': 'length-measure',
- 
-                'defaultValue': {
-                    'length': 0,
-                    'unit': 'cm'
-                }
-            },
-            'angle': {
-                'value': 90,
-                'length': 100
-            }
-        },
   },
   {
        'category': 'Equipments',
