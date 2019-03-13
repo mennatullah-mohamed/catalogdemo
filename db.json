@@ -1,46 +1,45 @@
 [
-  {
-        "category": "Equipments",
-        "name": "Camera",
-        "prototype": "items",
-        "info": {
-            "tag": ["furnishings", "wood"],
-            "title": "canteen table",
-            "description": "canteen table",
-            "image": "url"
-        },
-        "properties": {
-            "altitude": {
-                "label": "altitude",
-                "type": "length-measure",
-                "defaultValue": {
-                    "length": 0,
-                    "unit": "cm"
-                },
+        {
+            "category":"Items",
+            "name": "camera",
+            "prototype": "items",
+            "info": {
+                "tag": ['security', 'metal'],
+                "title": "camera",
+                "description": "camera",
+                "image": require('./camera.png')
             },
+            "properties": {
+                "altitude": {
+                    "label": "altitude",
+                    "type": "length-measure",
+                    "defaultValue": {
+                        "length": 100,
+                        "unit": "cm"
+                    }
+                }
+            }
         },
-  },
-  
-  {
-       "category": "Equipments",
-        "name": "WiFi hotspot",
-        "prototype": "items",
-        "info": {
-            "tag": ["furnishings", "wood"],
-            "title": "canteen table",
-            "description": "canteen table",
-            "image": "url"
-        },
-        "properties": {
-            "altitude": {
-                "label": "altitude",
-                "type": "length-measure",
-                "defaultValue": {
-                    "length": 0,
-                    "unit": "cm"
-                },
+        {
+            "category":"Items",
+            "name": "canteen table",
+            "prototype": "items",
+            "info": {
+                "tag": ['furnishings', 'wood'],
+                "title": "canteen table",
+                "description": "canteen table",
+                "image": require('./canteen_table.png')
             },
-        },
-    },
+            "properties": {
+                "altitude": {
+                    "label": "altitude",
+                    "type": "length-measure",
+                    "defaultValue": {
+                        "length": 0,
+                        "unit": "cm"
+                    }
+                }
+            }
+        }
 
-]
+    ]
