@@ -4,10 +4,10 @@
             "name": "camera",
             "prototype": "items",
             "info": {
-                "tag": ['security', 'metal'],
+                "tag": "['security', 'metal']",
                 "title": "camera",
                 "description": "camera",
-                "image": require('./camera.png')
+                "image": "require('./camera.png')"
             },
             "properties": {
                 "altitude": {
@@ -25,10 +25,10 @@
             "name": "canteen table",
             "prototype": "items",
             "info": {
-                "tag": ['furnishings', 'wood'],
+                "tag": "['furnishings', 'wood']",
                 "title": "canteen table",
                 "description": "canteen table",
-                "image": require('./canteen_table.png')
+                "image": "require('./canteen_table.png')"
             },
             "properties": {
                 "altitude": {
